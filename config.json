@@ -1,0 +1,6 @@
+{
+    "token":"Token do bot",
+    "canal_mensagem": "id do canal no qual vai receber as mensagems de boas vindas",
+    "clientId": "Insira aki o id o seu bot",
+    "guildId": "Insira Aki o id da sua guild"
+}

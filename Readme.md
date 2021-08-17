@@ -1,0 +1,1 @@
+Olá este é um bot para discord Criado por Cristian Jucoski, com discord.js versão 13.0.1.
