@@ -21,7 +21,7 @@ module.exports = {
             .setAuthor(interaction.client.user.username, interaction.client.user.displayAvatarURL())
             .setColor('RANDOM')
             .setImage('https://media.giphy.com/media/j5br6C7ECI3WOalgzR/giphy.gif')
-            .setDescription(`Um crime Foi Cometido por **${user.username}!!**`)
+            .setDescription(`Um crime Foi Cometido por **<@${user.id}>!!**`)
             .setTimestamp(new Date())
 
 			await interaction.reply({embeds: [embed ]});
